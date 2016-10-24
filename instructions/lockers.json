@@ -1,0 +1,18 @@
+[
+  {
+    "name" : "Cerber",
+    "path" : "# HELP DECRYPT #.txt"
+  },
+  {
+    "name" : "Locky",
+    "path" : "_HELP_instructions.txt"
+  },
+  {
+    "name" : "Fortrypt",
+    "path" : "how to get data.txt"
+  },
+  {
+    "name" : "ToviCrypt",
+    "path" : "README.txt"
+  }
+]
