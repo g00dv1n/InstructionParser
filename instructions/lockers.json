@@ -1,18 +1,22 @@
 [
   {
     "name" : "Cerber",
-    "path" : "# HELP DECRYPT #.txt"
+    "txtPath" : "# HELP DECRYPT #.txt",
+    "htmlPath" : "# HELP DECRYPT #.html"
   },
   {
     "name" : "Locky",
-    "path" : "_HELP_instructions.txt"
+    "txtPath" : "_HELP_instructions.txt",
+    "htmlPath" : "_HELP_instructions.html"
   },
   {
     "name" : "Fortrypt",
-    "path" : "how to get data.txt"
+    "txtPath" : "how to get data.txt",
+    "htmlPath" : "READ IF YOU WANT YOUR FILES BACK.html"
   },
   {
     "name" : "ToviCrypt",
-    "path" : "README.txt"
+    "txtPath" : "README.txt",
+    "htmlPath" : "README.html"
   }
 ]

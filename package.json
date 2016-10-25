@@ -4,7 +4,9 @@
   "description": "",
   "main": "Instruction.js",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "co": "^4.6.0",
+    "colors": "^1.1.2",
     "diff": "^3.0.1",
     "html-to-text": "^2.1.3",
     "mongoose": "^4.6.5"

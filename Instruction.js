@@ -5,7 +5,8 @@
 let mongoose = require('./db');
 
 let inst = mongoose.Schema({
-    data: String,
+    plainText: String,
+    htmlText: String,
     family: String,
     originalName: String
 });
